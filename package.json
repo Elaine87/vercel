@@ -1,0 +1,8 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Elaine87/vercel.git",
+  "author": "panmin <panmin@trunk.tech>",
+  "license": "MIT"
+}
